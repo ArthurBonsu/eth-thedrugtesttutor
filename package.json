@@ -9,6 +9,7 @@
   "scripts": {
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && sexit 1"
+    //run by typing npm run dev
   },
   "author": "gregory@dappuniversity.com",
   "license": "ISC",
